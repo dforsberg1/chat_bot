@@ -76,7 +76,7 @@ def chat_bot():
     # Loop to print dots
     for _ in range(6):
         print(".", end="", flush=True)  # Print dot without a newline
-        time.sleep(3)  # Delay of 3 seconds
+        time.sleep(1)  # Delay of 1 second
     
     print("")
     print("")
@@ -89,7 +89,7 @@ def chat_bot():
     # Loop to print dots
     for _ in range(6):
         print(".", end="", flush=True)  # Print dot without a newline
-        time.sleep(2)  # Delay of 2 seconds
+        time.sleep(1)  # Delay of 1 second
     
     print("")
     print("")
